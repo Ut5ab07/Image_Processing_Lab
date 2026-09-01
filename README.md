@@ -1,7 +1,6 @@
 # Image Processing Lab
-
-This repo was created to keep track of all the lab assignments of Image Processing Subject
 ------------------------------------------------------------------------
+This repo was created to keep track of all the lab assignments of Image Processing Subject
 
 ## Lab-1
 ### Using Different Filters in a photo
