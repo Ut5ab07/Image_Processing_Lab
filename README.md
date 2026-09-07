@@ -2,7 +2,7 @@
 
 This repo was created to keep track of all the lab assignments of Image Processing Subject
 
-## Lab-1
+## Lab-0
 ### Using Different Filters in a photo
 ##### Filters Used:
 - Gaussian Filter
@@ -13,4 +13,28 @@ This repo was created to keep track of all the lab assignments of Image Processi
 
 ### Output
 
-![Lab-1 Output](output_images/Lab1.png)
+![Lab-0 Output](output_images/Lab0.png)
+
+## Lab-1
+#### a. Practice Basic Image Processing Operations  
+##### Operations performed:
+- Resized
+- Cropped
+- Rotated
+- Flipped
+- Brightness
+### Output
+
+![Lab-1a Output](output_images/Lab1a.png)
+
+
+#### b. Demonstrate Sampling and Quantization  
+### Output
+
+![Lab-1b Output](output_images/Lab1b.png)
+
+
+#### c. Demonstrate 2D Transforms DFT,DCT 
+### Output
+
+![Lab-1c Output](output_images/Lab1c.png)
